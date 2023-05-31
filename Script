@@ -9911,6 +9911,6 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(144.78506469
  wait()
 
 end
---  repeat task.wait() until game:IsLoaded() 
-    --  require(game:GetService("ReplicatedStorage").Game.Notification).new({Text = game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name, Duration = 5})
+_G.AutoEscaped = true -- for my gui lol
+
 
