@@ -1621,6 +1621,8 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(144.84237670
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(145.08590698242188, 118.65547943115234, 1334.7994384765625))
  wait()
+ _G.AutoEscaped = true
+
  end
 if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "1_Classic" then   
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(151.7958984375, 18.6054630279541, 1317.6253662109375))
@@ -3273,6 +3275,7 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.22174072
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.22174072265625, 118.65546417236328, 1336.92724609375))
  wait()
+ _G.AutoEscaped = true
 
 end
 if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "2_StorageAndMeeting" then 
@@ -4999,6 +5002,8 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(142.77697753
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(142.96714782714844, 118.65546417236328, 1333.448486328125))
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.01617431640625, 118.65546417236328, 1333.7276611328125))
+ _G.AutoEscaped = true
+
 end 
 if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "5_TheCEO" then 
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(152.74732971191406, 18.6054630279541, 1316.5439453125))
@@ -6585,9 +6590,11 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(141.83404541
 
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(141.83404541015625, 118.65546417236328, 1337.30615234375))
  wait()
+ _G.AutoEscaped = true
 
 end
 if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "4_CameraFloors" then 
+    
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(153.45462036132812, 18.6054630279541, 1317.7642822265625))
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(153.59913635253906, 18.6054630279541, 1318.482666015625))
@@ -8296,6 +8303,7 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.14489746
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.1448974609375, 118.65545654296875, 1326.838134765625))
  wait()
+ _G.AutoEscaped = true
 
 end
 if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "3_ExpandedStore" then 
@@ -9909,8 +9917,8 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(144.60928344
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(144.78506469726562, 118.65548706054688, 1336.9949951171875))
  wait()
+_G.AutoEscaped = true 
 
 end
-_G.AutoEscaped = true -- for my gui lol
 
 
