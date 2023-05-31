@@ -8298,7 +8298,7 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(143.14489746
  wait()
 
 end
-if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "3_3_ExpandedStore" then 
+if game.Workspace.Jewelrys:GetChildren()[1].Floors:GetChildren()[1].Name == "3_ExpandedStore" then 
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(150.85768127441406, 18.6054630279541, 1315.855224609375))
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(150.85768127441406, 18.6054630279541, 1315.855224609375))
